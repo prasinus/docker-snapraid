@@ -1,5 +1,4 @@
-FROM debian:stretch
-MAINTAINER IronicBadger <ironicbadger@linuxserver.io>
+FROM debian:buster
 
 ENV SNAPRAID_VERSION="11.3"
 
